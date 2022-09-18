@@ -10,17 +10,17 @@ Atividades de Estrutura de Dados 1
 N>=0 se N=0 lista vazia
 Aplicações: Cartas, Itens em estoque, Cadastro de funcionários
 
-Estática
+#### Estática
   -N° máximo;
   -Alocação de memória na compilação;
   -Acesso sequencial.
   
-Dinâmica
+#### Dinâmica
   -Alocação de memória na execução;
   -O tamanha da lista é adaptado a quantidade de elementos nela;
   -Percorrer todos os elementos para acessar um.
   
-Linear Estática/Sequencial Estática
+#### Linear Estática/Sequencial Estática
   Vantagens 
     -Acesso rápido e indireto;
     -Tempo de acesso constante;
