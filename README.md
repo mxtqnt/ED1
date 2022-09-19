@@ -8,6 +8,7 @@ Atividades de Estrutura de Dados 1
 
 ### Lista
 N>=0 se N=0 lista vazia
+
 Aplicações: Cartas, Itens em estoque, Cadastro de funcionários
 
 #### Estática
@@ -16,18 +17,13 @@ Aplicações: Cartas, Itens em estoque, Cadastro de funcionários
   -Acesso sequencial.
   
 #### Dinâmica
-  -Alocação de memória na execução;
-  -O tamanha da lista é adaptado a quantidade de elementos nela;
-  -Percorrer todos os elementos para acessar um.
+  -Alocação de memória na execução; O tamanha da lista é adaptado a quantidade de elementos nela; Percorrer todos os elementos para acessar um.
   
 #### Linear Estática/Sequencial Estática
   Vantagens 
-    -Acesso rápido e indireto;
-    -Tempo de acesso constante;
-    -Facilidade de modificar.
+    -Acesso rápido e indireto; Tempo de acesso constante; Facilidade de modificar.
     
   Desvantagens
-    -Tamanho definido previamente;
-    -Dificuldade de inserir e remover (necessário deslocar elementos posteriores).
+    -Tamanho definido previamente; Dificuldade de inserir e remover (necessário deslocar elementos posteriores).
 
 
